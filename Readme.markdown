@@ -36,3 +36,9 @@ Statistics may indicate patterns of certain duties that never get completed by a
   - [travis](https://travis-ci.org/adamcaron/tidy_up/)
   - hound (rubocop locally to test before PR)
   - [code climate](https://travis-ci.org/adamcaron/tidy_up/)
+
+## Instructions
+
+run git clone git@github.com:adamcaron/tidy_up.git
+run rails s, access http://localhost:3000 in your browser
+to run the tests, run bundle exec rspec
