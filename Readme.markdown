@@ -1,5 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/adamcaron/tidy_up.svg?label=ready&title=Ready)](https://waffle.io/adamcaron/tidy_up)[![Code Climate](https://codeclimate.com/github/adamcaron/tidy_up/badges/gpa.svg)](https://codeclimate.com/github/adamcaron/tidy_up)](https://codeclimate.com/github/adamcaron/tidy_up/
-)[![Build Status](https://travis-ci.org/adamcaron/tidy_up.svg)](https://travis-ci.org/adamcaron/tidy_up)[![Test Coverage](https://codeclimate.com/github/adamcaron/tidy_up/badges/coverage.svg)](https://codeclimate.com/github/adamcaron/tidy_up/coverage)
+[![Stories in Ready](https://badge.waffle.io/adamcaron/tidy_up.svg?label=ready&title=Ready)](https://waffle.io/adamcaron/tidy_up) [![Code Climate](https://codeclimate.com/github/adamcaron/tidy_up/badges/gpa.svg)](https://codeclimate.com/github/adamcaron/tidy_up) [![Build Status](https://travis-ci.org/adamcaron/tidy_up.svg)](https://travis-ci.org/adamcaron/tidy_up) [![Test Coverage](https://codeclimate.com/github/adamcaron/tidy_up/badges/coverage.svg)](https://codeclimate.com/github/adamcaron/tidy_up/coverage)
 
 # Tidy Up
 This is an app to make it easier for Turing School students to complete cleanup duties.
