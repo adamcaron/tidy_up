@@ -1,6 +1,9 @@
 [![Stories in Ready](https://badge.waffle.io/adamcaron/tidy_up.svg?label=ready&title=Ready)](https://waffle.io/adamcaron/tidy_up) [![Code Climate](https://codeclimate.com/github/adamcaron/tidy_up/badges/gpa.svg)](https://codeclimate.com/github/adamcaron/tidy_up) [![Build Status](https://travis-ci.org/adamcaron/tidy_up.svg)](https://travis-ci.org/adamcaron/tidy_up) [![Test Coverage](https://codeclimate.com/github/adamcaron/tidy_up/badges/coverage.svg)](https://codeclimate.com/github/adamcaron/tidy_up/coverage)
 
 # Tidy Up
+
+[![Stories in Ready](https://badge.waffle.io/adamcaron/tidy_up.svg?label=ready&title=Ready)](http://waffle.io/adamcaron/tidy_up) [![Build Status](https://travis-ci.org/adamcaron/tidy_up.svg)](https://travis-ci.org/applegrain/dinners_ready)
+
 This is an app to make it easier for Turing School students to complete cleanup duties.
 
 As of now (Aug-7-2015) we have a list of posse cleanup duties but there's not way to keep track of which tasks have been completed and which tasks have not. Having a checklist would communicate posse cleanup duty progress. Throughout the week, posse members can see how close they are to completing the list of cleanup duties,
