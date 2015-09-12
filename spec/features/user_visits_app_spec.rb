@@ -20,10 +20,4 @@ RSpec.feature "User visits app" do
     expect(page).to have_button("Admin Login")
   end
 
-  scenario "sees option to register as a new admin" do
-    visit root_path
-
-    expect(page).to have_link("Register as a New Admin")
-  end
-
 end
