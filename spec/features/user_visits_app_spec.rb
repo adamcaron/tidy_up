@@ -5,19 +5,11 @@ RSpec.feature "User visits app" do
   scenario "sees all the tasks" do
     visit root_path
 
-    expect(response.body).to have_css("ul.all-tasks", text: "All Tasks")
-
-    within('ul.all-tasks') do
-      locate('li.task')
-      # locate(:css, 'li.task')
-    end
-
-    within('li.task') do
-      locate('title')
-      locate('location')
-      # locate(:css, 'title')
-      # locate(:css, 'location')
-    end
+    expect(page).to have_css('div.tasks', text: "Tasks")
+    expect(page).to have_css('ul.all-tasks')
+    expect(page).to have_css('li.task')
+    expect(page).to have_css('.title')
+    expect(page).to have_css('.location')
   end
 
   xscenario "sees option for admin login" do
