@@ -1,0 +1,12 @@
+language: ruby
+rvm:
+  - 2.2.2
+
+script:
+  - bundle install
+  - bundle exec rake db:create db:schema:load
+  - bundle exec rake
+
+addons:
+  code_climate:
+    repo_token: 7099f0260a869e7c42a08356525072baa2c626bb263b086b2deda0b013a23429 bundle exec rakee
