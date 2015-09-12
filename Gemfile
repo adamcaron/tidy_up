@@ -24,6 +24,7 @@ group :development, :test do
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'pry'
+  gem 'simplecov'
   gem 'database_cleaner'
   gem 'awesome_print'
 end
