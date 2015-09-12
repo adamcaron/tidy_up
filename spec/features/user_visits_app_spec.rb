@@ -12,7 +12,7 @@ RSpec.feature "User visits app" do
     expect(page).to have_css('.location')
   end
 
-  xscenario "sees option for admin login" do
+  scenario "sees option for admin login" do
     visit root_path
 
     expect(page).to have_field("Email", with: "Email")
