@@ -5,8 +5,8 @@ RSpec.feature "User visits app" do
   scenario "sees all the tasks" do
     visit root_path
 
-    expect(page).to have_css('div.tasks', text: "Tasks")
-    expect(page).to have_css('ul.all-tasks')
+    expect(page).to have_css('div.all-tasks')
+    expect(page).to have_css('ul.tasks')
     expect(page).to have_css('li.task')
     expect(page).to have_css('.title')
     expect(page).to have_css('.location')
